@@ -1,0 +1,9 @@
+var name = "John"
+val birthyear = 1975
+
+val LastName= "mohammad"
+
+println(name)          // Print the value of name
+println(birthyear)     // Print the value of birthyear
+
+var name ="mohammad"
